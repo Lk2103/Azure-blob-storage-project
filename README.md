@@ -18,7 +18,7 @@ Azure Blob Storage
 
 Static Website Hosting
 
-<img width="1919" height="995" alt="Static website enabling" src="https://github.com/user-attachments/assets/47abc0c1-9456-4774-81d4-8692c15c8fec" />
+<img width="1919" height="841" alt="Static website enabling" src="https://github.com/user-attachments/assets/2dddaf32-80e7-4cb9-a4f4-0cc3e87e701b" />
 
 *Screenshot of the Static Website being enabled(Index.html in Azure Blob Storage)*
 
