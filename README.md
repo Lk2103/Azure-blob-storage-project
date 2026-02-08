@@ -12,13 +12,13 @@ Azure Storage Account
 
 Azure Blob Storage
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/711d93e2-5872-469a-914e-81f9733f6ce5" />
+<img width="1919" height="905" alt="Uploading text and images" src="https://github.com/user-attachments/assets/98994e18-4099-4a12-8758-cac152e2c199" />
 
 *Screenshot of the Uploading of Text and image files to be used on the static website*
 
 Static Website Hosting
 
-<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/c770bb14-5c88-4dd2-bdbe-5e02ffc684da" />
+<img width="1919" height="995" alt="Static website enabling" src="https://github.com/user-attachments/assets/47abc0c1-9456-4774-81d4-8692c15c8fec" />
 
 *Screenshot of the Static Website being enabled(Index.html in Azure Blob Storage)*
 
@@ -32,13 +32,13 @@ Local Redundant Storage was chosen to minimise the cost of the project as a whol
 
 I learnt how to create a storage account and provide storage solutions for clients.
 
-<img width="1913" height="1011" alt="image" src="https://github.com/user-attachments/assets/dd4d8073-04d7-4adf-9e76-2f6a3aa7e174" />
+<img width="1913" height="833" alt="Storage account" src="https://github.com/user-attachments/assets/2d2c468e-9402-491b-bd5e-a1675a0d6145" />
 
 *Screenshot of storage account being created*
 
 The ideal scenarios in which Azure Blob should be used(when nonstructured images and text are involved) and Azure Table Storage(for unstructure non relational data essentially allowing you to filter groups of data together ideal for archives)
 
-<img width="1915" height="963" alt="image" src="https://github.com/user-attachments/assets/2de6cb1c-5088-47d3-8dcc-0e0a18c775ed" />
+<img width="1915" height="827" alt="Storage blob container" src="https://github.com/user-attachments/assets/d7e156e4-d65b-4232-a92e-93f86e99455a" />
 
 *Screenshot of Azure Blob Storage container being created*
 
